@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1574449092 source:c:\users\yago\desktop\tp final\controller.c
+	"Controller.h"
+
+1574437043 c:\users\yago\desktop\tp final\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1574437043 c:\users\yago\desktop\tp final\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573259014 c:\users\yago\desktop\tp final\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1573259014 c:\users\yago\desktop\tp final\utn.h
+
+1573259014 c:\users\yago\desktop\tp final\parser.h
+
+1574444118 source:c:\users\yago\desktop\tp final\employee.c
+	"Employee.h"
+
+1574448829 source:c:\users\yago\desktop\tp final\linkedlist.c
+	"LinkedList.h"
+
+1573259014 source:c:\users\yago\desktop\tp final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1574445988 source:c:\users\yago\desktop\tp final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1574437630 source:c:\users\yago\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\controller.c
+	"Controller.h"
+
+1574463692 d:\tp4_laboratorio_1\tp final\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1574463692 d:\tp4_laboratorio_1\tp final\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574463692 d:\tp4_laboratorio_1\tp final\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1574463692 d:\tp4_laboratorio_1\tp final\utn.h
+
+1574463692 d:\tp4_laboratorio_1\tp final\parser.h
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\employee.c
+	"Employee.h"
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\linkedlist.c
+	"LinkedList.h"
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1574463692 source:d:\tp4_laboratorio_1\tp final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+

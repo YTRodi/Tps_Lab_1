@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572702039 source:d:\yagooooo\programacion-y-lab-1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572702039 d:\yagooooo\programacion-y-lab-1\tp3\win_64\linkedlist.h
+
+1572702039 d:\yagooooo\programacion-y-lab-1\tp3\win_64\employee.h
+
+1572702039 source:d:\yagooooo\programacion-y-lab-1\tp3\win_64\employee.c
+
+1572702039 source:d:\yagooooo\programacion-y-lab-1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572656024 source:d:\yagooooo\programacion-y-lab-1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1572656024 d:\yagooooo\programacion-y-lab-1\tp3\win_64\utn.h
+
+1572704483 source:d:\yagoooo\programacion-y-lab-1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572702039 d:\yagoooo\programacion-y-lab-1\tp3\win_64\linkedlist.h
+
+1572702039 d:\yagoooo\programacion-y-lab-1\tp3\win_64\employee.h
+
+1572702039 source:d:\yagoooo\programacion-y-lab-1\tp3\win_64\employee.c
+
+1572702039 source:d:\yagoooo\programacion-y-lab-1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572656024 source:d:\yagoooo\programacion-y-lab-1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1572656024 d:\yagoooo\programacion-y-lab-1\tp3\win_64\utn.h
+
+1572704380 source:d:\yagoooo\programacion-y-lab-1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572702039 d:\yagoooo\programacion-y-lab-1\tp3\win_64\controller.h
+
+1572708338 source:d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572702039 d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\linkedlist.h
+
+1572707105 d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\employee.h
+
+1572708374 source:d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572702039 d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\controller.h
+
+1572656024 d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\utn.h
+
+1572702039 source:d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572656024 source:d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1572707215 source:d:\yagoo\aaaaaaaaa\yagoooo\programacion-y-lab-1\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573237383 source:c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\employee.c
+	"Employee.h"
+
+1573237382 c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1573237226 source:c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572923876 c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\linkedlist.h
+
+1573142129 c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\controller.h
+
+1572923876 c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\utn.h
+
+1572923876 source:c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1573238865 source:c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573239053 source:c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1572923876 c:\users\yago\desktop\programacion-y-lab-1\tp3\win_64\parser.h
+
+1572915122 source:d:\yagooo\programacion-y-lab-1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1572912552 d:\yagooo\programacion-y-lab-1\tp3\win_64\linkedlist.h
+
+1572912552 d:\yagooo\programacion-y-lab-1\tp3\win_64\employee.h
+
+1572912552 d:\yagooo\programacion-y-lab-1\tp3\win_64\parser.h
+
+1572912552 d:\yagooo\programacion-y-lab-1\tp3\win_64\utn.h
+
+1572913828 source:d:\yagooo\programacion-y-lab-1\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1572916018 source:d:\yagooo\programacion-y-lab-1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572912552 d:\yagooo\programacion-y-lab-1\tp3\win_64\controller.h
+
+1572912743 source:d:\yagooo\programacion-y-lab-1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572912552 source:d:\yagooo\programacion-y-lab-1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1573250162 source:d:\yagoo\tp3_laboratorio_1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1573250162 d:\yagoo\tp3_laboratorio_1\tp3\win_64\linkedlist.h
+
+1573250162 d:\yagoo\tp3_laboratorio_1\tp3\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1573250162 d:\yagoo\tp3_laboratorio_1\tp3\win_64\utn.h
+
+1573250162 d:\yagoo\tp3_laboratorio_1\tp3\win_64\parser.h
+
+1573250162 source:d:\yagoo\tp3_laboratorio_1\tp3\win_64\employee.c
+	"Employee.h"
+
+1573250162 source:d:\yagoo\tp3_laboratorio_1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1573250162 d:\yagoo\tp3_laboratorio_1\tp3\win_64\controller.h
+
+1573250620 source:d:\yagoo\tp3_laboratorio_1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573250162 source:d:\yagoo\tp3_laboratorio_1\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+

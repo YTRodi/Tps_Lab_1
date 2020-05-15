@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567712224 source:c:\users\yago\desktop\workspace yago\programacion 1\la calcu\la calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567712715 source:c:\users\yago\desktop\workspace yago\programacion 1\la calcu\la calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567712628 c:\users\yago\desktop\workspace yago\programacion 1\la calcu\la calcu\funciones.h
+

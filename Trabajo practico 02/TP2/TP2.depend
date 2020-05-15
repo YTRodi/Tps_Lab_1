@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1570067337 source:c:\users\yago\desktop\tp2\arrayemployee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployee.h"
+
+1570067262 c:\users\yago\desktop\tp2\arrayemployee.h
+
+1570131855 source:c:\users\yago\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1570130039 source:c:\users\yago\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1570076558 c:\users\yago\desktop\tp2\utn.h
+
+1570129732 c:\users\yago\desktop\tp2\arrayemployees.h
+
+1570118499 source:c:\users\yago\desktop\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570133331 source:d:\yagoyago\tp_laboratorio_2-master\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1570133331 d:\yagoyago\tp_laboratorio_2-master\tp2\utn.h
+
+1570133331 d:\yagoyago\tp_laboratorio_2-master\tp2\arrayemployees.h
+
+1570133331 source:d:\yagoyago\tp_laboratorio_2-master\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570146403 source:d:\yagoyago\tp_laboratorio_2-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1570216530 source:c:\users\yago\desktop\tp_laboratorio_2\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1570211931 c:\users\yago\desktop\tp_laboratorio_2\tp2\utn.h
+
+1570216609 c:\users\yago\desktop\tp_laboratorio_2\tp2\arrayemployees.h
+
+1570211922 source:c:\users\yago\desktop\tp_laboratorio_2\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570211647 source:c:\users\yago\desktop\tp_laboratorio_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+

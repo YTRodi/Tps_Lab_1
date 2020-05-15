@@ -1,0 +1,26 @@
+int hardCodearEmployeesConId(sEmployee listEmployee[],int len, int lastId)
+{
+    //14 + 6 = 20
+    char name[] [QTY_CARACTERES] ={"Yago","Camila","Facundo","Joaquin","Humberto","Norma","Mario","David","Lucia","Hugo","Daniel","Alba","Adrian","Martin","Sara","Carla","Claudia","Valeria","Paula","Sofia"};
+
+    char lastName[] [QTY_CARACTERES] = {"Rodi","Roy","Toro","Vasquez","Gomez","Perez","Pereyta","Torres","Medina","Acosta","Sanchez","Fernandez","Rodriguez","Molina","Cabrera","Diaz","Perez","Dominguez","Luna","Godoy"};
+
+    float salary[] = {150000,140000,6000,5000,45000,75000,13000,41000,29000,36000,12000,4500,1000,7500,9500,46000,120000,100000,45500,4000};
+
+    int sector[] = {2,1,48,35,28,50,41,42,34,20,14,16,44,36,48,31,5,11,22,29};
+
+
+    for(int i=0; i<20 ;i++)
+    {
+        listEmployee[i].id = lastId;
+        strcpy(listEmployee[i].name,name[i]);
+        strcpy(listEmployee[i].lastName,lastName[i]);
+        listEmployee[i].salary = salary[i];
+        listEmployee[i].sector = sector[i];
+        listEmployee[i].isEmpty = LIBRE;
+
+        lastId ++;
+    }
+    return lastId;
+
+}
